@@ -22,7 +22,7 @@ Exploring how AI agents and LLM tooling reshape day-to-day engineering — build
 ### 🚀 Projects
 
 - 🖥️ **[lbarrantes-resume](https://github.com/KikeCR/lbarrantes-resume)** ![Stars](https://img.shields.io/github/stars/KikeCR/lbarrantes-resume?style=flat&label=%E2%98%85&color=faf9f6) ![Top language](https://img.shields.io/github/languages/top/KikeCR/lbarrantes-resume?style=flat&color=3178C6) — my personal site/resume: React, TypeScript, Tailwind & MUI, bilingual (EN/ES), with a downloadable PDF resume and an animated tech stack section.
-- 🔐 **[password-generator](https://github.com/KikeCR/password-generator)** ![Stars](https://img.shields.io/github/stars/KikeCR/password-generator?style=flat&label=%E2%98%85&color=faf9f6) ![Top language](https://img.shields.io/github/languages/top/KikeCR/password-generator?style=flat&color=3178C6) — a small React app for generating strong, secure passwords.
+- 🔐 **[password-generator](https://github.com/KikeCR/password-generator)** ![Stars](https://img.shields.io/github/stars/KikeCR/password-generator?style=flat&label=%E2%98%85&color=faf9f6) ![Top language](https://img.shields.io/github/languages/top/KikeCR/password-generator?style=flat&color=3178C6) — a small React app for generating strong, secure passwords. [🔗 Live](https://lbarrantes.com/password-generator/)
 
 ### 🧰 Tech Stack
 
