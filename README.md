@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1200&color=C1533D&center=true&vCenter=true&width=700&lines=I+am+a+front-end+engineer.;I+am+a+back-end+engineer.;I+am+a+full-stack+engineer.;I+explore+AI+agents+and+LLM+tooling.;I+build+robust+apps.)](https://github.com/KikeCR)
 
-I'm a full-stack developer with a track record thriving in startups and other fast-paced environments, where priorities shift quickly and ownership matters. I'm proactive by nature — I look for problems before they become blockers, take initiative without waiting to be asked, and follow through on what I commit to. I put as much care into communication as I do into code: keeping my team and stakeholders in the loop, asking the right questions early, and making sure technical decisions are understood by everyone involved. Always eager to collaborate, adapt to new technologies, and keep growing both my technical and soft skills.
+I'm a full-stack developer with a track record thriving in startups and other fast-paced environments, where priorities shift quickly and ownership matters. I'm proactive by nature, I look for problems before they become blockers, take initiative without waiting to be asked, and follow through on what I commit to. I put as much care into communication as I do into code: keeping my team and stakeholders in the loop, asking the right questions early, and making sure technical decisions are understood by everyone involved. Always eager to collaborate, adapt to new technologies, and keep growing both my technical and soft skills.
 
 ### 🔭 Currently focused on
 
