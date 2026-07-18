@@ -6,7 +6,7 @@ I'm a full-stack developer with a track record thriving in startups and other fa
 
 ### 🔭 Currently focused on
 
-Exploring how AI agents and LLM tooling reshape day-to-day engineering — building with them, not just talking about them.
+Exploring how AI agents and LLM tooling reshape day-to-day engineering, building with them, not just talking about them.
 
 ### 💼 Experience
 
