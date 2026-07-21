@@ -23,7 +23,7 @@ Exploring how AI agents and LLM tooling reshape day-to-day engineering, building
 
 - 🖥️ **[lbarrantes-resume](https://github.com/KikeCR/lbarrantes-resume)** ![Stars](https://img.shields.io/github/stars/KikeCR/lbarrantes-resume?style=flat&label=%E2%98%85&color=faf9f6) ![Top language](https://img.shields.io/github/languages/top/KikeCR/lbarrantes-resume?style=flat&color=3178C6) <a href="https://lbarrantes.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/demo-live-4c1?style=flat" alt="Live"></a> — my personal site/resume: React, TypeScript, Tailwind & MUI, bilingual (EN/ES), with a downloadable PDF resume, an animated tech stack section, and Playwright end-to-end tests.
 - 🔐 **[password-generator](https://github.com/KikeCR/password-generator)** ![Stars](https://img.shields.io/github/stars/KikeCR/password-generator?style=flat&label=%E2%98%85&color=faf9f6) ![Top language](https://img.shields.io/github/languages/top/KikeCR/password-generator?style=flat&color=3178C6) <a href="https://lbarrantes.com/password-generator/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/demo-live-4c1?style=flat" alt="Live"></a> — a small React app for generating strong, secure passwords.
-- 🎮 **[savestate-kb](https://github.com/KikeCR/savestate-kb)** ![Stars](https://img.shields.io/github/stars/KikeCR/savestate-kb?style=flat&label=%E2%98%85&color=faf9f6) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) — a multi-user game completion tracker (Backloggery/Grouvee-style): React, Flask, SQLAlchemy & Redis, with a drag-and-drop Kanban board, leaderboards, and a live activity feed.
+- 🎮 **[savestate-kb](https://github.com/KikeCR/savestate-kb)** ![Stars](https://img.shields.io/github/stars/KikeCR/savestate-kb?style=flat&label=%E2%98%85&color=faf9f6) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) — a multi-user game completion tracker (Backloggery/Grouvee-style): React, Flask, SQLAlchemy & Redis, with a drag-and-drop Kanban board, leaderboards, a follow-based activity feed, and full test coverage (Vitest + pytest).
 
 ### 🧰 Tech Stack
 
@@ -34,7 +34,8 @@ Exploring how AI agents and LLM tooling reshape day-to-day engineering, building
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat&logo=mui&logoColor=white)
-![Storybook](https://img.shields.io/badge/Design_Systems-FF4785?style=flat&logo=storybook&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat&logo=radixui&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat)
 
 **Back-end**
 
@@ -43,7 +44,6 @@ Exploring how AI agents and LLM tooling reshape day-to-day engineering, building
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/LLM_Tooling-D97757?style=flat&logo=anthropic&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ### Beyond the code
